@@ -1,0 +1,7 @@
+{
+  "name": "GovMitra",
+  "description": "Multilingual, offline-first digital citizen assistant for discovering and applying to Indian government services and schemes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
